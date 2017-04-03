@@ -4,7 +4,8 @@
   "description": "starter for visualizations at uofc",
   "main": "index.js",
   "dependencies": {
-    "d3": "^4.7.4"
+    "d3": "^4.7.4",
+    "lodash": "^4.17.4"
   },
   "devDependencies": {
     "babel-cli": "^6.24.0",
