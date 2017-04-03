@@ -1,0 +1,28 @@
+{
+  "name": "dvis-scaffold",
+  "version": "1.0.0",
+  "description": "starter for visualizations at uofc",
+  "main": "index.js",
+  "dependencies": {
+    "d3": "^4.7.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-core": "^6.24.0",
+    "babel-preset-env": "^1.3.2",
+    "webpack": "^2.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenhuh/dvis-scaffold.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenhuh/dvis-scaffold/issues"
+  },
+  "homepage": "https://github.com/stephenhuh/dvis-scaffold#readme"
+}
